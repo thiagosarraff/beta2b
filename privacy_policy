@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Política de Privacidade - N8N Facebook Automation</title>
+    <style>
+        body { font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; max-width: 800px; }
+        h1, h2 { color: #1877F2; }
+        .section { margin-bottom: 20px; }
+    </style>
+</head>
+<body>
+    <h1>Política de Privacidade</h1>
+    <p><strong>Última atualização:</strong> 18 de agosto de 2025</p>
+    
+    <div class="section">
+        <h2>1. Informações Gerais</h2>
+        <p>Esta Política de Privacidade descreve como o aplicativo "N8N Facebook Automation" (o "App") coleta, usa e protege suas informações quando você utiliza nossos serviços de automação para publicações no Facebook.</p>
+        
+        <p><strong>Desenvolvedor:</strong> Beta2B Soluções Inteligentes<br>
+        <strong>E-mail de contato:</strong> contato.beta2b@gmail.com<br>
+        <strong>Responsável:</strong> Thiago Sarraff</p>
+    </div>
+
+    <div class="section">
+        <h2>2. Dados Coletados</h2>
+        <p>Nosso App coleta as seguintes informações:</p>
+        <ul>
+            <li><strong>Dados de Autenticação:</strong> Nome, ID do usuário Facebook, token de acesso</li>
+            <li><strong>Dados das Páginas:</strong> Informações das páginas Facebook que você gerencia</li>
+            <li><strong>Conteúdo:</strong> Textos, imagens e vídeos que você autoriza para publicação</li>
+            <li><strong>Dados de Uso:</strong> Logs de atividade, estatísticas de publicação, horários de uso</li>
+            <li><strong>Dados Técnicos:</strong> Endereço IP, tipo de dispositivo, navegador utilizado</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>3. Como Usamos Seus Dados</h2>
+        <p>Utilizamos suas informações para:</p>
+        <ul>
+            <li>Executar automações de publicação conforme suas configurações</li>
+            <li>Gerenciar e programar postagens em suas páginas Facebook</li>
+            <li>Fornecer relatórios e análises de desempenho</li>
+            <li>Manter a segurança e funcionamento do serviço</li>
+            <li>Comunicar atualizações importantes sobre o serviço</li>
+            <li>Cumprir obrigações legais e regulamentares</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>4. Compartilhamento de Dados</h2>
+        <p>Seus dados podem ser compartilhados com:</p>
+        <ul>
+            <li><strong>Meta/Facebook:</strong> Através da Graph API para execução das publicações</li>
+            <li><strong>Provedores de Infraestrutura:</strong> Serviços de hospedagem e armazenamento (AWS, Google Cloud, etc.)</li>
+            <li><strong>Autoridades Legais:</strong> Quando exigido por lei ou ordem judicial</li>
+        </ul>
+        <p><strong>Não vendemos</strong> seus dados pessoais para terceiros.</p>
+    </div>
+
+    <div class="section">
+        <h2>5. Armazenamento e Segurança</h2>
+        <p>Implementamos medidas de segurança técnicas e organizacionais:</p>
+        <ul>
+            <li>Criptografia de dados em trânsito e em repouso</li>
+            <li>Controle de acesso restrito aos dados</li>
+            <li>Monitoramento contínuo de segurança</li>
+            <li>Backups regulares e seguros</li>
+        </ul>
+        <p><strong>Período de Retenção:</strong> Mantemos seus dados enquanto sua conta estiver ativa ou conforme necessário para prestação do serviço. Dados podem ser mantidos por período adicional para cumprimento de obrigações legais.</p>
+    </div>
+
+    <div class="section">
+        <h2>6. Seus Direitos</h2>
+        <p>Você tem direito a:</p>
+        <ul>
+            <li><strong>Acesso:</strong> Solicitar cópia dos dados pessoais que possuímos</li>
+            <li><strong>Retificação:</strong> Corrigir dados incorretos ou incompletos</li>
+            <li><strong>Exclusão:</strong> Solicitar remoção de seus dados pessoais</li>
+            <li><strong>Portabilidade:</strong> Receber seus dados em formato estruturado</li>
+            <li><strong>Limitação:</strong> Restringir o processamento de seus dados</li>
+            <li><strong>Revogação:</strong> Retirar consentimento a qualquer momento</li>
+        </ul>
+        <p>Para exercer esses direitos, entre em contato conosco através do e-mail: thiagosarraff@gmail.com</p>
+    </div>
+
+    <div class="section">
+        <h2>7. Cookies e Tecnologias Similares</h2>
+        <p>Utilizamos cookies e tecnologias similares para:</p>
+        <ul>
+            <li>Manter sua sessão autenticada</li>
+            <li>Lembrar suas preferências</li>
+            <li>Analisar o uso do serviço</li>
+            <li>Melhorar a experiência do usuário</li>
+        </ul>
+        <p>Você pode gerenciar cookies através das configurações do seu navegador.</p>
+    </div>
+
+    <div class="section">
+        <h2>8. Transferências Internacionais</h2>
+        <p>Seus dados podem ser transferidos e processados em países diferentes do seu país de residência, incluindo Estados Unidos e outros países onde nossos provedores de serviço operam. Garantimos proteção adequada através de cláusulas contratuais padrão e outras salvaguardas legais.</p>
+    </div>
+
+    <div class="section">
+        <h2>9. Menores de Idade</h2>
+        <p>Nosso serviço não é destinado a menores de 18 anos. Não coletamos intencionalmente dados pessoais de menores. Se tomarmos conhecimento de coleta inadvertida, excluiremos imediatamente tais informações.</p>
+    </div>
+
+    <div class="section">
+        <h2>10. Alterações na Política</h2>
+        <p>Podemos atualizar esta Política periodicamente. Notificaremos sobre mudanças significativas através do e-mail cadastrado ou aviso no aplicativo. A data da última atualização será sempre indicada no início desta página.</p>
+    </div>
+
+    <div class="section">
+        <h2>11. Base Legal (LGPD/GDPR)</h2>
+        <p>O processamento de seus dados pessoais baseia-se em:</p>
+        <ul>
+            <li>Consentimento para uso do serviço</li>
+            <li>Execução de contrato para prestação do serviço</li>
+            <li>Interesse legítimo para melhoria e segurança</li>
+            <li>Cumprimento de obrigação legal</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>12. Contato</h2>
+        <p>Para dúvidas sobre esta Política de Privacidade ou exercício de direitos:</p>
+        <p><strong>E-mail:</strong> thiagosarraff@gmail.com<br>
+        <strong>Responsável pela Proteção de Dados:</strong> [SEU_NOME]</p>
+    </div>
+
+    <div class="section">
+        <h2>13. Conformidade Facebook</h2>
+        <p>Este aplicativo utiliza a Facebook Graph API e está sujeito aos <a href="https://developers.facebook.com/terms" target="_blank">Termos da Plataforma Facebook</a> e <a href="https://www.facebook.com/privacy/policy" target="_blank">Política de Privacidade do Facebook</a>.</p>
+    </div>
+</body>
+</html>
